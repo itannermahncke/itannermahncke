@@ -20,4 +20,4 @@ You can read my [system design document](https://docs.google.com/document/d/1EQu
 - Autonomous waiter robot codebase (full nav stack, perception, control) ([GitHub Page](https://github.com/itannermahncke/pie_waiterbot)) ([Project Website](https://olincollege.github.io/pie-2024-03/waiterbot/))
 - Playable open-world retro JRPG ([GitHub Page](https://github.com/olincollege/top-down-dungeon-crawler)) ([Project Website](https://olincollege.github.io/top-down-dungeon-crawler/))
 
-# if you want to see my work in more detail, please check out [my portfolio](https://imahncke.myportfolio.com/)!
+## Please check out [my portfolio](https://imahncke.myportfolio.com/) for more!
