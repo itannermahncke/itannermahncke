@@ -2,7 +2,7 @@
 
 I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested in all things robotic software: particularly path planning, perception, and state estimation! I primarily develop in Python, C, and Java, with a special focus on developing ROS and ROS2 packages.
 
-## I'm very passionate about expeditionary systems! I want to work on robots that...
+## I'm very passionate about expeditionary autonomy! I want to work on robots that...
 
 - Explore harsh and unstructured environments (like ocean systems, or alien worlds!)
 - Gather data and make decisions on the behalf engineers and scientists
