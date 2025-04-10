@@ -1,13 +1,14 @@
 # Hi there 👋 I'm Ivy!
 
-I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested in all things robotic software: particularly path planning, perception, and state estimation. I primarily develop in Python, C, and Java, with a special focus on developing ROS and ROS2 packages.
+I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested in all things robotic software: particularly path planning, perception, and state estimation! I primarily develop in Python, C, and Java, with a special focus on developing ROS and ROS2 packages.
 
-## I'm especially passionate about expeditionary systems! I want to work on robots that...
+## I'm very passionate about expeditionary systems! I want to work on robots that...
 
 - Explore harsh and unstructured environments
 - Gather data and make decisions on the behalf engineers and scientists
 - Are capable of working on multi-robot or human-in-the-loop teams
 
+## Please check out my best work at [my portfolio](https://imahncke.myportfolio.com/)! To start, here's a quick primer:
 
 ## Right now, I'm involved in climate robotics research at Olin!
 
@@ -19,5 +20,3 @@ You can read my [system design document](https://docs.google.com/document/d/1EQu
 - Decentralized multi-agent path planning and localization for a robotic fleet ([GitHub Page](https://github.com/itannermahncke/fleet_robotics)) ([Project Website](https://itannermahncke.github.io/fleet_robotics/))
 - Autonomous waiter robot codebase (full nav stack, perception, control) ([GitHub Page](https://github.com/itannermahncke/pie_waiterbot)) ([Project Website](https://olincollege.github.io/pie-2024-03/waiterbot/))
 - Playable open-world retro JRPG ([GitHub Page](https://github.com/olincollege/top-down-dungeon-crawler)) ([Project Website](https://olincollege.github.io/top-down-dungeon-crawler/))
-
-## Please check out [my portfolio](https://imahncke.myportfolio.com/) for more!
