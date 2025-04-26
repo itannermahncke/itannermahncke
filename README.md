@@ -5,7 +5,7 @@ I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested
 ## I'm very passionate about expeditionary autonomy! I want to work on robots that...
 
 - Explore harsh and unstructured environments (like ocean systems, or alien worlds!)
-- Gather data and make decisions on the behalf engineers and scientists
+- Gather data and make decisions alongside engineers and scientists
 - Are capable of working on multi-robot or human-in-the-loop teams
 
 ## Please check out my best work at [my portfolio](https://imahncke.myportfolio.com/)! To start, here's a quick primer:
