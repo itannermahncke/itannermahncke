@@ -18,7 +18,8 @@ You can read my [system design document](https://docs.google.com/document/d/1EQu
 ### Also, here are my best class projects:
 
 - Multi-agent path planning for a decentralized robotic fleet ([GitHub Page](https://github.com/itannermahncke/fleet_robotics)) ([Project Website](https://itannermahncke.github.io/fleet_robotics/))
-- Autonomous waiter robot codebase (full nav stack, perception, control) ([GitHub Page](https://github.com/itannermahncke/pie_waiterbot)) ([Project Website](https://olincollege.github.io/pie-2024-03/waiterbot/))
+- Autonomous waiter robot codebase (full navigation stack, perception, control) ([GitHub Page](https://github.com/itannermahncke/pie_waiterbot)) ([Project Website](https://olincollege.github.io/pie-2024-03/waiterbot/))
+- Dino Game-inspired sidescroller for the GameBoy Advance ([GitHub Page](https://github.com/olincollege/biplup-run))
 - Playable open-world retro JRPG ([GitHub Page](https://github.com/olincollege/top-down-dungeon-crawler)) ([Project Website](https://olincollege.github.io/top-down-dungeon-crawler/))
 
 ### And here's some ongoing work:
