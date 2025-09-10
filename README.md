@@ -13,7 +13,7 @@ I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested
 ### Right now, I'm involved in climate robotics research at Olin!
 
 I'm working on an intelligent autonomy project focused on coverage path planning for ASVs studying coral reef systems. I'm really proud of the work I've done so far, and I'm excited to share the finished product in May 2025!
-You can read my [system design document](https://docs.google.com/document/d/1EQueDtxi3Mqqq7yS0Ds5HbZkS5oiRqB0dqToZ39L-A4) and view the project's [Github Page](https://github.com/itannermahncke/fleet_robotics).
+You can read my [system design document](https://docs.google.com/document/d/1EQueDtxi3Mqqq7yS0Ds5HbZkS5oiRqB0dqToZ39L-A4) and view the project's [Github Page](https://github.com/itannermahncke/fleet_robotics](https://github.com/itannermahncke/iterative_coverage_path_planner).
 
 ### Also, here are my best class projects:
 
