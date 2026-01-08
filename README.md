@@ -8,20 +8,16 @@ I'm an aspiring robotics engineer at Olin College of Engineering. I'm interested
 - Gather data and make decisions alongside engineers and scientists
 - Are capable of working on multi-robot or human-in-the-loop teams
 
+## I've deployed software on all kinds of robots, including...
+
+- Autonomous underwater vehicles (AUVs) ([Portfolio Page](https://imahncke.myportfolio.com/mit-lincoln-laboratory-advanced-undersea-systems))
+- Modified vaccuum robots ([Project Website](https://itannermahncke.github.io/fleet_robotics/))
+- Balancing robots ([Portfolio Page](https://imahncke.myportfolio.com/system-dynamics-rocky-project))
+- And more!!!
+
 ## Please check out my best work at [my portfolio](https://imahncke.myportfolio.com/)! To start, here's a quick primer:
 
-### Right now, I'm involved in climate robotics research at Olin!
-
-I'm working on an intelligent autonomy project focused on coverage path planning for ASVs studying coral reef systems. I'm really proud of the work I've done so far, and I'm excited to share the finished product in May 2025!
-You can read my [system design document](https://docs.google.com/document/d/1EQueDtxi3Mqqq7yS0Ds5HbZkS5oiRqB0dqToZ39L-A4) and view the project's [Github Page](https://github.com/itannermahncke/iterative_coverage_path_planner).
-
-### Also, here are my best class projects:
-
+- Extended Kalman Filtering to localize a mobile robot in a homemade simulator ([GitHub Page](https://github.com/itannermahncke/extended-kalman-filtering)) ([Portfolio Page](https://imahncke.myportfolio.com/extended-kalman-filtering-for-robot-localization))
+- Training an mobile robot to navigate a warehouse using Q-learning ([GitHub Page](github.com/itannermahncke/stochastic_q-learning_navigation/)) ([Portfolio Page](https://imahncke.myportfolio.com/q-learning-for-warehouse-navigation))
 - Multi-agent path planning for a decentralized robotic fleet ([GitHub Page](https://github.com/itannermahncke/fleet_robotics)) ([Project Website](https://itannermahncke.github.io/fleet_robotics/))
 - Autonomous waiter robot codebase (full navigation stack, perception, control) ([GitHub Page](https://github.com/itannermahncke/pie_waiterbot)) ([Project Website](https://olincollege.github.io/pie-2024-03/waiterbot/))
-- Dino Game-inspired sidescroller for the GameBoy Advance ([GitHub Page](https://github.com/olincollege/biplup-run))
-- Playable open-world retro JRPG ([GitHub Page](https://github.com/olincollege/top-down-dungeon-crawler)) ([Project Website](https://olincollege.github.io/top-down-dungeon-crawler/))
-
-### And here's some ongoing work:
-
-- Solving concurrency puzzles from The Little Book of Semaphores ([Github Page](https://github.com/itannermahncke/semaphore_puzzles))
